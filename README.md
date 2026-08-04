@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Wejdan</h1>
+<h3 align="center">Computer Science Graduate | software Developer | AI Enthusiast</h3>
 
-<!--
-**WejdanCodeLab/WejdanCodeLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about building modern web applications using React, TypeScript, and Tailwind CSS.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Graduate
+- 💻 Passionate about Frontend Development
+- 🌱 Currently learning Next.js & Cloud Technologies
+- 🤖 Interested in Artificial Intelligence
+- 📍 Dammam, Saudi Arabia
+- 🚀 Always learning new technologies
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,vscode,figma,python" />
+
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### ♻️ Recycling Bank
+
+An e-waste marketplace platform that connects businesses with recycling service providers through a modern web application.
+
+### Features
+
+- 🔐 Authentication
+- 📦 Product Management
+- 📊 Dashboard
+- 📈 Reports & Statistics
+- 🛒 Shopping Cart
+- 📱 Responsive Design
+
+### Tech Stack
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+Repository:
+https://github.com/WejdanCodeLab/recycling-bank
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WejdanCodeLab&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WejdanCodeLab&layout=compact&theme=transparent"/>
+
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/WejdanCodeLab
+- LinkedIn: www.linkedin.com/in/wejdan-aziz-
+
+---
+
+⭐ Thanks for visiting my profile!
