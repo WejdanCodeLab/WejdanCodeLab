@@ -55,18 +55,6 @@ https://github.com/WejdanCodeLab/recycling-bank
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WejdanCodeLab&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WejdanCodeLab&layout=compact&theme=transparent"/>
-
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/WejdanCodeLab
