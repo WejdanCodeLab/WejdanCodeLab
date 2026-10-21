@@ -1,29 +1,39 @@
-<h1 align="center">Hi 👋, I'm Wejdan</h1>
-<h3 align="center">Computer Science Graduate | software Developer | AI Enthusiast</h3>
+
+<h1 align="center">Hi 👋, I'm Wejdan Almutairi</h1>
+
+<h3 align="center">
+  <span>Software Development</span> ·
+  <span>Artificial Intelligence</span> ·
+  <span>Cloud Technologies</span>
+</h3>
 
 <p align="center">
-Passionate about building modern web applications using React, TypeScript, and Tailwind CSS.
+  Building modern web applications and exploring AI-powered solutions.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Development-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Cloud-B026FF?style=for-the-badge" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 💜 About Me
 
-- 🎓 Computer Science Graduate
-- 💻 Passionate about Frontend Development
-- 🌱 Currently learning Next.js & Cloud Technologies
-- 🤖 Interested in Artificial Intelligence
+- 🎓 Computer Science student at Prince Musaid bin Abdulrahman University
+- 💻 Interested in software development and modern web applications
+- 🤖 Exploring Artificial Intelligence and AI-powered solutions
+- ☁️ Learning cloud technologies and AWS
 - 📍 Dammam, Saudi Arabia
-- 🚀 Always learning new technologies
+- 🌱 Continuously learning and building practical projects
 
 ---
 
-## 🛠️ Languages & Tools
+## ⚡ Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,vscode,figma,python" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,git,github,vscode,figma,aws" alt="Technical Skills" />
 </p>
 
 ---
@@ -32,34 +42,55 @@ Passionate about building modern web applications using React, TypeScript, and T
 
 ### ♻️ Recycling Bank
 
-An e-waste marketplace platform that connects businesses with recycling service providers through a modern web application.
+An e-waste marketplace platform designed to connect businesses with recycling service providers and support the reuse of electronic materials.
 
-### Features
-
-- 🔐 Authentication
-- 📦 Product Management
-- 📊 Dashboard
-- 📈 Reports & Statistics
-- 🛒 Shopping Cart
-- 📱 Responsive Design
-
-### Tech Stack
+**Technologies**
 
 - React
 - TypeScript
 - Tailwind CSS
 - Vite
+- python
 
-Repository:
-https://github.com/WejdanCodeLab/recycling-bank
+**Key Features**
+
+- 🔐 Authentication
+- 📦 Product Management
+- 📈 Reports and Statistics
+- 🛒 Shopping Cart
+- 📱 Responsive User Interface
+
+<p>
+  <a href="https://github.com/WejdanCodeLab/recycling-bank">
+    <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Recycling Bank Project" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 🌌 Current Learning Goals
 
-- GitHub: https://github.com/WejdanCodeLab
-- LinkedIn: www.linkedin.com/in/wejdan-aziz-
+- Strengthening software engineering skills
+- Exploring AI and machine learning applications
+- Developing cloud computing knowledge
+- Building practical software projects
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/WejdanCodeLab">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/wejdan-aziz/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>✨ Thanks for visiting my profile ✨</strong>
+</p>
+
