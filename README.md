@@ -25,7 +25,7 @@
 - 💻 Interested in software development and modern web applications
 - 🤖 Exploring Artificial Intelligence and AI-powered solutions
 - ☁️ Learning cloud technologies and AWS
-- 📍 Dammam, Saudi Arabia
+- 📍 eastern region, Saudi Arabia
 - 🌱 Continuously learning and building practical projects
 
 ---
@@ -50,7 +50,6 @@ An e-waste marketplace platform designed to connect businesses with recycling se
 - TypeScript
 - Tailwind CSS
 - Vite
-- python
 
 **Key Features**
 
